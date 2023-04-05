@@ -17,3 +17,5 @@ portfolio
 - 물만날물고기 
 - 관리(X)
 - 벨로그(X)
+
+<a href='https://lungfish.tistory.com/entry/python-%EB%91%90-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9D%98-%EA%B5%90%EC%A7%91%ED%95%A9-%ED%95%A9%EC%A7%91%ED%95%A9-%EC%B0%A8%EC%A7%91%ED%95%A9'>[python] 두 리스트의 교집합, 합집합, 차집합</a>
