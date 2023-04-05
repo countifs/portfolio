@@ -23,3 +23,5 @@ portfolio
 <a href="https://www.google.co.kr/" target="_blank"> https://www.google.co.kr/ </a>
 
 <a href="https://www.google.com/" target="_blank">
+  
+<a href="https://www.google.com/" target="_blank">새 탭에서 열기</a>  
