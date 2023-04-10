@@ -3,6 +3,12 @@ portfolio
 
 
 ---
+□ (데이터사이언스 공통) Python, SQL, R, Java, Scala, Go, C/C++, Javascript 등 데이터 처리 언어 활용 능력 <br>
+□ (데이터 활용 및 분석) 데이터사이언스 관련 공모전 참여를 통한 공개 데이터의 활용 및 분석 능력 <br>
+□ (데이터 수집 및 정제) Web crawler, Scraping, Open API 등을 활용한 데이터 수집 능력 여부 <br>
+□ (데이터 시각화) Tableau, Power BI 등을 활용한 데이터 시각화 능력 <br>
+
+
 ▼ 수상경력
 - 해양수산부 공모전 우수상 수상
 - 나만의 학습노하우 공모전 장려상
