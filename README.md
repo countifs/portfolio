@@ -8,11 +8,11 @@ portfolio
 □ (데이터 수집 및 정제) Web crawler, Scraping, Open API 등을 활용한 데이터 수집 능력 여부 <br>
 □ (데이터 시각화) Tableau, Power BI 등을 활용한 데이터 시각화 능력 <br>
 
-| Header 1 | Header 2 | Header 3 |
+| No. | 심사항목 | 내용 |
 |----------|----------|----------|
-| Cell 1A  | <a href='https://lungfish.tistory.com/'>물 만날 물고기</a>  | Cell 1C  |
-| Cell 2A  | Cell 2B  | Cell 2C  |
-| Cell 3A  | Cell 3B  | Cell 3C  |
+| 1  | 데이터사이언스 공통  | Python, SQL, R, Java, Scala, Go, C/C++, Javascript 등 데이터 처리 언어 활용 능력  |
+| 2 | 데이터 활용 및 분석  | 데이터사이언스 관련 공모전 참여를 통한 공개 데이터의 활용 및 분석 능력  |
+| 3 | 데이터 시각화  | Tableau, Power BI 등을 활용한 데이터 시각화 능력  |
 
 
 
