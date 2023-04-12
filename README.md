@@ -8,6 +8,13 @@ portfolio
 □ (데이터 수집 및 정제) Web crawler, Scraping, Open API 등을 활용한 데이터 수집 능력 여부 <br>
 □ (데이터 시각화) Tableau, Power BI 등을 활용한 데이터 시각화 능력 <br>
 
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Cell 1A  | <a href='https://lungfish.tistory.com/'>물 만날 물고기</a>  | Cell 1C  |
+| Cell 2A  | Cell 2B  | Cell 2C  |
+| Cell 3A  | Cell 3B  | Cell 3C  |
+
+
 
 ▼ 수상경력
 - 해양수산부 공모전 우수상 수상
