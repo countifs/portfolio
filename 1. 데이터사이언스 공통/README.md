@@ -1,5 +1,7 @@
 ### 📂 <a href='https://github.com/countifs/portfolio'> BK21 테크니컬 포트폴리오 </a> : 데이터사이언스 공통
 
+<
+
 | No. | 심사항목 | 내용 | 기타 |
 |:----------:|----------|----------|----------|
 |**1**|**데이터사이언스 공통**| **Python, SQL, R, Java, Scala, Go, C/C++, Javascript 등 데이터 처리 언어 활용 능력**  |<a href='https://github.com/countifs/portfolio/tree/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5'>바로가기</a>|
