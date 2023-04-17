@@ -20,10 +20,10 @@
 | 3 | 2022.12 | 정보통신산업진흥원, 데이터사이언스와 비즈니스 포텐셜 교육연구단 <br>- 'AI를 활용한 통관물품 판독 아이디어 해커톤' | 대상 |
 | 4 | 2022.10 | 2022년 K-인공지능 제조데이터 분석 경진대회  (KAMP)           | - |
 
+<br>
 
+<img src="image-20230417220755891.png" alt="image-20230417220755891" style="zoom: 25%;" />
 
-<img src="image-20230417220755891.png" alt="image-20230417220755891" style="zoom:33%;" />
+<img src="image-20230417220244677.png" alt="image-20230417220244677" style="zoom: 25%;" />
 
-<img src="image-20230417220244677.png" alt="image-20230417220244677" style="zoom: 33%;" />
-
-<img src="image-20230417220741048.png" alt="image-20230417220741048" style="zoom:33%;" />
+<img src="image-20230417220741048.png" alt="image-20230417220741048" style="zoom: 25%;" />
