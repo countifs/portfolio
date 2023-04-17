@@ -1,4 +1,4 @@
-### <a href='https://github.com/countifs/portfolio'> BK21 테크니컬 포트폴리오 : 데이터사이언스 공통</a>
+### <a href='https://github.com/countifs/portfolio'> BK21 테크니컬 포트폴리오 </a> : 데이터사이언스 공통
 
 | No. | 심사항목 | 내용 | 기타 |
 |:----------:|----------|----------|----------|
