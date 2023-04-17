@@ -1,5 +1,17 @@
 # <a href='https://github.com/countifs/portfolio'> BK21 테크니컬 포트폴리오</a>
 
+<br>
+
+## ※ 학생정보
+- 이름 : 김재호 <br>
+- 학번 : 21512070
+- 연락처 : doe2x2@seoutlech.ac.kr <br>
+- 소속 : 서울과학기술대학교 일반대학원 데이터사이언스학과 Explainable Data Mining Lab <br>
+
+<
+
+## ※ 심사항목
+
 | No. | 심사항목 | 내용 | 기타 |
 |:----------:|----------|----------|----------|
 |1|데이터사이언스 공통| Python, SQL, R, Java, Scala, Go, C/C++, Javascript 등 데이터 처리 언어 활용 능력  |<a href='https://github.com/countifs/portfolio/tree/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5'>바로가기</a>|
