@@ -1,4 +1,4 @@
-### <a href='https://github.com/countifs/portfolio'> BK21 테크니컬 포트폴리오 </a> : 2. 데이터 활용 및 분석
+### <a href='https://github.com/countifs/portfolio'> BK21 테크니컬 포트폴리오 </a> : 데이터 활용 및 분석
 
 | No. | 심사항목 | 내용 | 기타 |
 |:----------:|----------|----------|----------|
