@@ -6,8 +6,6 @@
 |2|데이터 활용 및 분석| 데이터사이언스 관련 공모전 참여를 통한 공개 데이터의 활용 및 분석 능력  |<a href='https://github.com/countifs/portfolio/tree/main/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EB%B0%8F%20%EB%B6%84%EC%84%9D'>바로가기</a>|
 |3|데이터 시각화| Tableau, Power BI 등을 활용한 데이터 시각화 능력  |<a href='https://github.com/countifs/portfolio/tree/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94'>바로가기</a>|
 
-<br>
-
 
 ### ※ 프로젝트 
 
@@ -18,8 +16,6 @@
 | 3 | 정규과정 | 2021-2 빅데이터저장및관리 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2021-2%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC/%5B%EA%B3%B5%EC%9A%A9%ED%83%9D%2C%20%EA%B9%80%EC%9E%AC%ED%98%B8%5D%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC%20-%20%EC%B5%9C%EC%A2%85%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf'>인터넷버즈, 방송프로그램별 시청시간 및 시청률 데이터 분석</a>|
 | 4 | 정규과정 | 2022-1 데이터마이닝 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2022-1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EB%B0%9C%ED%91%9C%20-%20%EA%B9%80%EC%9E%AC%ED%98%B8%20(22.05.10).pdf'> Cirrhosis Prediction </a> |
 | 5 | 정규과정 | 2022-1 데이터베이스시스템 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2022-1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%8B%9C%EC%8A%A4%ED%85%9C/%5B%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20Automated%20energy%20consumption%20forecasting%20with%20EnForce%20-%20%EA%B9%80%EB%B4%89%EC%84%9D%2C%20%EA%B9%80%EC%9E%AC%ED%98%B8%2C%20%EC%9D%B4%EB%8B%A4%EC%9D%B8.pdf'>Automated energy consumption forecasting with EnForce</a>|
-
-
 
 
 <br>
