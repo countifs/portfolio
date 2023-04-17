@@ -6,6 +6,7 @@
 - 이름 : 김재호 <br>
 - 학번 : 21512070
 - 연락처 : doe2x2@seoutlech.ac.kr <br>
+- 블로그 : <a href='https://lungfish.tistory.com/'>티스토리 - 물 만날 물고기</a>
 - 소속 : 서울과학기술대학교 일반대학원 데이터사이언스학과 Explainable Data Mining Lab <br>
 
 <br>
