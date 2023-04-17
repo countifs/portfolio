@@ -1,4 +1,4 @@
-# <a href='https://github.com/countifs/portfolio'> BK21 테크니컬 포트폴리오 : 데이터사이언스 공통</a>
+### <a href='https://github.com/countifs/portfolio'> BK21 테크니컬 포트폴리오 : 데이터사이언스 공통</a>
 
 | No. | 심사항목 | 내용 | 기타 |
 |:----------:|----------|----------|----------|
@@ -8,7 +8,7 @@
 
 <br>
 
-# 학습내용 (블로그 포스팅 정리)
+### ※ 학습내용 (블로그 포스팅으로 정리)
 
 <a href='https://lungfish.tistory.com/'> 티스토리 - 물 만날 물고기</a>
 
