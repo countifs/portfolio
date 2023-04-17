@@ -8,7 +8,7 @@
 - 연락처 : doe2x2@seoutlech.ac.kr <br>
 - 소속 : 서울과학기술대학교 일반대학원 데이터사이언스학과 Explainable Data Mining Lab <br>
 
-<
+<br>
 
 ## ※ 심사항목
 
