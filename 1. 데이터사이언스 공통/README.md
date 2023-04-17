@@ -13,9 +13,9 @@
 - <a href='https://lungfish.tistory.com/'> 티스토리 - 물 만날 물고기</a>
 
 | No. | 구분 | 포스팅 | 비고 |
-|---------|---------|---------|---------|
-| 1 | Python |<a href='https://lungfish.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACpython-%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98-random-%EB%AA%A8%EB%93%88'>[python] 내장함수 - random 모듈</a> | 
-| 2 | Python | <a href='https://lungfish.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACpython-%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98-strstartswith-strendswith'>[python] 내장함수 - str.startswith() , str.endswith()</a> | --  |
+|:---------:|:---------:|---------|:---------:|
+| 1 | Python |<a href='https://lungfish.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACpython-%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98-random-%EB%AA%A8%EB%93%88'>[python] 내장함수 - random 모듈</a> | - |
+| 2 | Python | <a href='https://lungfish.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACpython-%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98-strstartswith-strendswith'>[python] 내장함수 - str.startswith() , str.endswith()</a> | - |
 | 3 | Python | <a href='https://lungfish.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACpython-%EB%A6%AC%EC%8A%A4%ED%8A%B8list-%ED%8A%B9%EC%A0%95-%EA%B0%92-%EC%A0%9C%EA%B1%B0-listremove-del-pop-%EB%93%B1'>[python] 리스트(list) - 특정 값 제거 list.remove(), del(), pop(), clear() 등</a> | - |
 | 4 | Python |<a href='https://lungfish.tistory.com/entry/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95'>[python] 파이썬 버전 확인하는 방법</a> | - |
 | 5 | Python |<a href='https://lungfish.tistory.com/entry/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%AA%A8%EB%93%88-%EB%B2%84%EC%A0%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0'>[python] 파이썬 라이브러리 (모듈) 버전 확인하기</a> | - |
