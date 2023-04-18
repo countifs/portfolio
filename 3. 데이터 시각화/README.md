@@ -26,7 +26,9 @@
 |  6   |  유튜브  | <a href='https://www.youtube.com/@ONION-BI'>어니언 비아이 (ONION BI)</a> | 2022.11 ~ 2022.12 | 오리지널 DAX 시리즈| <a href='https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/6.%20%EC%96%B4%EB%8B%88%EC%96%B8%EB%B9%84%EC%95%84%EC%9D%B4-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%20DAX%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%EC%96%B4%EB%8B%88%EC%96%B8%20%EB%B9%84%EC%95%84%EC%9D%B4%20-%20(%EC%8B%A4%EC%8A%B5)%20%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%20DAX%20%EC%8B%9C%EB%A6%AC%EC%A6%88.pdf'>바로가기</a> |
 
 <br>
-### 📊 KNIME 솔루션을 활용한 데이터 분석 및 시각화  
+
+### 📊 KNIME 솔루션을 활용한 데이터 분석 및 시각화
+
 - <a href='https://lungfish.tistory.com/'> 티스토리 - 물 만날 물고기</a> (운영중인 블로그 포스팅을 참고하시기 바랍니다.)
 
 | No. | 구분 | 포스팅 | 비고 |
