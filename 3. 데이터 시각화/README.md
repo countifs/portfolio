@@ -26,7 +26,7 @@
 |  6   |  유튜브  | <a href='https://www.youtube.com/@ONION-BI'>어니언 비아이 (ONION BI)</a> | 2022.11 ~ 2022.12 | 오리지널 DAX 시리즈| <a href='https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/5.%20%EC%8B%9C%EB%AF%BC%EA%B0%9C%EB%B0%9C%EC%9E%90%20-%20%ED%8C%8C%EC%9B%8C%EB%B9%84%EC%95%84%EC%9D%B4%20%EB%B0%B0%EC%9B%80%ED%84%B02(%EC%8B%AC%ED%99%94)/%EC%8B%A4%EC%8A%B5.pdf'>바로가기</a> |
 
 <br>
-
+<br>
 
 
 <img src="image-20230418103720676.png" alt="image-20230418103720676" style="zoom: 33%;" />
