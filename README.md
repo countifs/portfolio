@@ -21,20 +21,28 @@
 
 <br>
 
-### 🏆 수상경력
+### 🏆 공모전 참여
 
-| No. | 심사항목 | 내용 | 기타 |
-|:----------:|----------|----------|----------|
-| 11 | 11 | 11 | 11 |
-
+| No. | 기간 | 공모전 | 수상 | 비고 |
+|:----------:|:--------:|-----------|:----------:|:----------:|
+| 1 | 2022.07 | <a href='https://www.seoultech.ac.kr/service/info/news/?do=commonview&searchtext=%EA%B9%80%EC%9E%AC%ED%98%B8&searchtype=1&nowpage=1&bnum=3596&bidx=523629&cate=14'>제9회 '해양수산 정보서비스ㆍ비즈니스 아이디어 공모전' - 빅데이터부문</a> | 우수상 | <a href='https://github.com/countifs/portfolio/blob/main/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EB%B0%8F%20%EB%B6%84%EC%84%9D/1.%20%EC%A0%9C9%ED%9A%8C%20%ED%95%B4%EC%96%91%EC%88%98%EC%82%B0%20%EC%A0%95%EB%B3%B4%EC%84%9C%EB%B9%84%EC%8A%A4%E3%86%8D%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%5B%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%80%EB%AC%B8%5D%20%EC%9C%A0%EC%82%AC%EC%96%B4%EC%A2%85%EC%9D%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%88%98%EC%82%B0%EB%AC%BC%20%EA%B1%B0%EB%9E%98%20%EC%8B%9C%EC%9E%A5%EC%9D%98%20%EC%A0%95%EB%B3%B4%EB%B9%84%EB%8C%80%EC%B9%AD%20%EA%B0%9C%EC%84%A0%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf'>바로가기</a> |
+| 2 | 2022.10 | 서울과학기술대학교 교육혁신처 교수학습개발센터 - '나만의 학습 노하우 공모전' | 장려상 | <a href='https://github.com/countifs/portfolio/blob/main/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EB%B0%8F%20%EB%B6%84%EC%84%9D/2.%20%EB%82%98%EB%A7%8C%EC%9D%98%20%ED%95%99%EC%8A%B5%20%EB%85%B8%ED%95%98%EC%9A%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EB%82%98%EB%A7%8C%EC%9D%98%20%ED%95%99%EC%8A%B5%20%EB%85%B8%ED%95%98%EC%9A%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%ED%95%99%EA%B3%BC_%EA%B9%80%EC%9E%AC%ED%98%B8(21512070).pdf'>바로가기</a> |
+| 3 | 2022.12 | 정보통신산업진흥원, 데이터사이언스와 비즈니스 포텐셜 교육연구단 ,  데이터분석기반의 <br/>전자제조전문인력양성사업단 - 'AI를 활용한 통관물품 판독 아이디어 해커톤' | 대상 | <a href='https://github.com/countifs/portfolio/blob/main/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EB%B0%8F%20%EB%B6%84%EC%84%9D/3.%20AI%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%86%B5%EA%B4%80%EB%AC%BC%ED%92%88%20%ED%8C%90%EB%8F%85%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%ED%95%B4%EC%BB%A4%ED%86%A4/AI%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%86%B5%EA%B4%80%EB%AC%BC%ED%92%88%20%ED%8C%90%EB%8F%85%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%ED%95%B4%EC%BB%A4%ED%86%A4%20-%20%EC%9D%B4%EB%AF%B8%ED%85%8C%EC%9D%B4%EC%85%98(g%EA%B7%B8%EB%A3%B9).pdf'>바로가기</a> |
 <br>
 
+### 🔍 프로젝트 력이력
 
-### 🔍 프로젝트 이력
+| No. | 구분 | 과정명 | 프로젝트 |
+|:---------:|:---------:|---------|---------|
+| 0 | 산학협력 | 2022-2 전자제조 산학프로젝트 | <a href='https://drive.google.com/drive/folders/16lO8i1p6F5wzyI3iiVYBizSwwf3HI0St?usp=sharing'> (주)제이오텍 - 센서 데이터 기반의 냉장고 기능 이상탐지 고도화 </a> |
+| 1 | 정규과정 | 2022-1 데이터마이닝 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2022-1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EB%B0%9C%ED%91%9C%20-%20%EA%B9%80%EC%9E%AC%ED%98%B8%20(22.05.10).pdf'> Cirrhosis Prediction </a> |
+| 2 | 정규과정 | 2022-1 데이터베이스시스템 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2022-1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%8B%9C%EC%8A%A4%ED%85%9C/%5B%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20Automated%20energy%20consumption%20forecasting%20with%20EnForce%20-%20%EA%B9%80%EB%B4%89%EC%84%9D%2C%20%EA%B9%80%EC%9E%AC%ED%98%B8%2C%20%EC%9D%B4%EB%8B%A4%EC%9D%B8.pdf'>Automated energy consumption forecasting with EnForce</a>|
+| 3 | 정규과정 | 2021-2 전자제조데이터분석 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2021-2%20%EC%A0%84%EC%9E%90%EC%A0%9C%EC%A1%B0%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%5B2021-2%20%EC%A0%84%EC%9E%90%EC%A0%9C%EC%A1%B0%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%5D%20Machine%20Predictive%20Maintenance%20Classification_%EC%9D%B4%EC%A0%95%EC%96%B8%2C%EA%B9%80%EC%9E%AC%ED%98%B8.pdf'>Machine Predictive Maintenance Classification</a> |
+| 4 | 정규과정 | 2021-2 비정형데이터분석 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2021-2%20%EB%B9%84%EC%A0%95%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D/%EC%88%98%EB%8A%A5%20%EB%B0%8F%20%EB%AA%A8%EC%9D%98%ED%8F%89%EA%B0%80%20%EC%98%81%EC%96%B4%EC%98%81%EC%97%AD%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%20%ED%95%99%EC%8A%B5%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%B6%9C%EC%A0%9C%EB%AC%B8%ED%95%AD%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%98%88%EC%B8%A1_21.12.06%20(PDF).pdf'>수능 및 모의평가 영어영역 기출문제 학습을 통한 출제문항 분석 및 예측</a> |
+| 5 | 정규과정 | 2021-2 빅데이터저장및관리 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2021-2%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC/%5B%EA%B3%B5%EC%9A%A9%ED%83%9D%2C%20%EA%B9%80%EC%9E%AC%ED%98%B8%5D%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC%20-%20%EC%B5%9C%EC%A2%85%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf'>인터넷버즈, 방송프로그램별 시청시간 및 시청률 데이터 분석</a>|
+| 6 | 학술대회 | 2022-1 대한산업공학회 춘계학술대회 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2022-1%20%EB%8C%80%ED%95%9C%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99%ED%9A%8C%20%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C/%EA%B0%84%EA%B2%B0%ED%99%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B7%9C%EC%B9%99%20%EA%B4%80%EA%B3%84%20%EB%B6%84%EC%84%9D%20-%20%EA%B9%80%EC%9E%AC%ED%98%B8.pdf'>간결화 알고리즘과 규칙 관계 분석</a> |
+| 7 | 학술대회 | 2022-2 대한산업공학회 추계학술대회 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2022-2%20%EB%8C%80%ED%95%9C%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99%ED%9A%8C%20%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C/2022%20%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20-%20%EA%B9%80%EC%9E%AC%ED%98%B8.pdf'>기대격차 모형에 의한 프랜차이즈 패스트푸드에 대한 품질 만족도 분석</a> |
 
-| No. | 심사항목 | 내용 | 기타 |
-|:----------:|----------|----------|----------|
-| 11 | 11 | 11 | 11 |
 
 <br>
 
