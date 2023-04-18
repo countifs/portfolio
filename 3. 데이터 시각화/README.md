@@ -12,8 +12,6 @@
 
 <br>
 
-
-
 ### ✏️ 교육훈련 이력
 
 | No.  |   구분   |                           교육기관                           |       기간        |                   과정명                   |  비고  |
@@ -24,6 +22,8 @@
 |  4   | 외부교육 |                            러닝핏                            | 2022.10 ~ 2022.11 |      Power BI로 배우는 데이터 시각화       | - |
 |  5   |  유튜브  | <a href='https://www.youtube.com/@citizendeveloper3327/playlists'>시민개발자</a> | 2022.12 ~ 2023.01 | 파워비아이 배움터2(심화)  | <a href='https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/5.%20%EC%8B%9C%EB%AF%BC%EA%B0%9C%EB%B0%9C%EC%9E%90%20-%20%ED%8C%8C%EC%9B%8C%EB%B9%84%EC%95%84%EC%9D%B4%20%EB%B0%B0%EC%9B%80%ED%84%B02(%EC%8B%AC%ED%99%94)/%EC%8B%A4%EC%8A%B5.pdf'>바로가기</a> |
 |  6   |  유튜브  | <a href='https://www.youtube.com/@ONION-BI'>어니언 비아이 (ONION BI)</a> | 2022.11 ~ 2022.12 | 오리지널 DAX 시리즈| <a href='https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/6.%20%EC%96%B4%EB%8B%88%EC%96%B8%EB%B9%84%EC%95%84%EC%9D%B4-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%20DAX%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%EC%96%B4%EB%8B%88%EC%96%B8%20%EB%B9%84%EC%95%84%EC%9D%B4%20-%20(%EC%8B%A4%EC%8A%B5)%20%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%20DAX%20%EC%8B%9C%EB%A6%AC%EC%A6%88.pdf'>바로가기</a> |
+| 7 | 외부교육 | 전자제조센터 (KEA) | 2022.08 | 텍스트 마이닝 (KNIME 활용) | - |
+| 8 | 외부교육 | 전자제조센터  (KEA) | 2013.01 | AI응용 및 데이터융합실습 (MS Azure & KNIME 활용) | - |
 
 <br>
 
@@ -42,11 +42,94 @@
 | 7 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Node-Nuemeric-Binner-%EC%97%B0%EC%86%8D%ED%98%95-%EB%B3%80%EC%88%98%EB%A5%BC-%EB%B2%94%EC%A3%BC%ED%99%94-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-%EA%B5%AC%EA%B0%84%ED%99%94-Binning'>[KNIME] Node - "Nuemeric Binner" 연속형 변수를 범주화 하고 싶을 때 (구간화 Binning)</a> |- |
 | 8 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%97%90-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-2%ED%8E%B8-Constant-Value-Column-%EB%85%B8%EB%93%9C'>[KNIME] Workflow - 데이터셋에 특정 문자열로 컬럼을 추가하고 싶을 때 - 2편 (Constant Value Column 노드)</a> |- |
 
+
+
+
+
+### 📈 KNIME 솔루션을 활용한 에타 수강후기 분석 및 워드 클라우드 시각화 (개인 프로젝트)
+
+
+
+#### 1. 데이터 수집 (리뷰가 많지 않아서 크롤링은 사용하지 않고 웹페이지 HTML 복사해서 txt파일로 저장)
+
+```
+- 에타 접속 (https://everytime.kr/) 생략가능, 로그인으로 바로 이동
+- 에타 로그인 (https://everytime.kr/login)
+- 에타 강의실 페이지로 이동 (https://everytime.kr/lecture)
+- 에타 강의 평가 이동 (https://everytime.kr/lecture/view/930295)
+- 에타 강의 평가 통계처리 입문 (https://everytime.kr/lecture/view/930295?tab=article)
+```
+
+
+
+#### 2. 모듈 불러오기
+
+```python
+import requests
+from bs4 import BeautifulSoup
+
+import selenium
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By 
+
+# 크롬 드라이버 자동 업데이트
+from webdriver_manager.chrome import ChromeDriverManager
+
+import time
+import random 
+import pyautogui
+import pyperclip
+
+import pandas as pd
+```
+
+
+
+#### 3. txt파일 불러오기 및  html 파싱
+
+```python
+# txt파일 불러오기
+with open('통계처리입문.txt', 'r', encoding='utf-8') as f:
+    text = f.read()
+
+soup = BeautifulSoup(text, 'html.parser')
+articles = soup.select('div.article')
+texts = soup.select('div.text')
+rates = soup.select('span.on')
+infos = soup.select('span.semester')
+# articles = soup.find_all('div', class_='article')
+
+info_list = []
+rate_list = []
+text_list = []
+
+i = 1
+ 
+for info, rate, text in zip(infos, rates, texts):
+    info_list.append(info.text.strip() )
+    rate_list.append(rate['style'] )
+    text_list.append(text.text.strip() )
+    i += 1 
+    
+rate_list = [rate.split(':')[1].strip() for rate in rate_list]
+rate_list = [rate.split('%')[0] for rate in rate_list]   
+
+everytime_hong = pd.DataFrame({'info':info_list, 'rate':rate_list, 'text':text_list})
+everytime_hong
+```
+
+![image-20230418212104020](image-20230418212104020.png)
+
+
+
+#### 4. KNIME 솔루션을 활용한 텍스트 데이터 분석 및 워드 클라우드 시각화
+
+![image-20230418205631023](image-20230418205631023.png)
+
+![image-20230418210852213](image-20230418210852213.png)
+
 <br>
 <br>
 
-<img src="image-20230418103720676.png" alt="image-20230418103720676" style="zoom: 33%;" />
-
-<img src="image-20230418103815538.png" alt="image-20230418103815538" style="zoom: 33%;" />
-
-<img src="image-20230418103755268.png" alt="image-20230418103755268" style="zoom:33%;" />
