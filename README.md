@@ -44,3 +44,10 @@
 | 7 | 학술대회 | 2022-2 대한산업공학회 추계학술대회 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2022-2%20%EB%8C%80%ED%95%9C%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99%ED%9A%8C%20%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C/2022%20%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20-%20%EA%B9%80%EC%9E%AC%ED%98%B8.pdf'>기대격차 모형에 의한 프랜차이즈 패스트푸드에 대한 품질 만족도 분석</a> |
 
 <br>
+
+개인실습
+- 유튜브 재생목록 크롤링
+- 워크넷 채용공고 크롤링 및 구인안내문자 생성 프로그램 개발
+- AutoML (pycaret, auto-sklearn)
+- Tabnet 
+- GAN oversampling
