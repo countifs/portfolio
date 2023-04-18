@@ -26,6 +26,20 @@
 |  6   |  유튜브  | <a href='https://www.youtube.com/@ONION-BI'>어니언 비아이 (ONION BI)</a> | 2022.11 ~ 2022.12 | 오리지널 DAX 시리즈| <a href='https://github.com/countifs/portfolio/blob/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/6.%20%EC%96%B4%EB%8B%88%EC%96%B8%EB%B9%84%EC%95%84%EC%9D%B4-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%20DAX%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%EC%96%B4%EB%8B%88%EC%96%B8%20%EB%B9%84%EC%95%84%EC%9D%B4%20-%20(%EC%8B%A4%EC%8A%B5)%20%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%20DAX%20%EC%8B%9C%EB%A6%AC%EC%A6%88.pdf'>바로가기</a> |
 
 <br>
+### 📊 KNIME 솔루션을 활용한 데이터 분석 및 시각화  
+- <a href='https://lungfish.tistory.com/'> 티스토리 - 물 만날 물고기</a> (운영중인 블로그 포스팅을 참고하시기 바랍니다.)
+
+| No. | 구분 | 포스팅 | 비고 |
+|:---------:|:---------:|---------|:---------:|
+| 1 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Node-Round-Double-%EC%86%8C%EC%88%98%EC%A0%90-%EC%9E%90%EB%A6%AC%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EB%95%8C'>[KNIME] Node - "Round Double" 소수점 자리를 변경할 때</a> |- |
+| 2 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Workflow-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%97%90-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C'>[KNIME] Workflow - 데이터셋에 특정 문자열로 컬럼을 추가하고 싶을 때</a> |- |
+| 3 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME%EB%82%98%EC%9E%84-Workflow-%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4Decision-Tree%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-UCI-%EC%9C%A0%EB%B0%A9%EC%95%94Breast-Cancer-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D'>[KNIME] Workflow - 의사결정나무(Decision Tree)를 이용한 UCI 유방암(Breast Cancer) 데이터 분석</a> |- |
+| 4 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Setting-Memory-%ED%95%A0%EB%8B%B9-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0-RAM-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A6%9D%EA%B0%80-%EA%B0%90%EC%86%8C'>[KNIME] Setting - Memory 할당 변경하기 (RAM 메모리 증가, 감소)</a> |- |
+| 5 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-%EA%B0%81-%ED%96%89%EC%9D%B8%EB%8D%B1%EC%8A%A4-%ED%95%A9%EA%B3%84%EB%A5%BC-%EA%B3%84%EC%82%B0%ED%95%98%EA%B3%A0-%EC%BB%AC%EB%9F%BC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0'>[KNIME] Workflow - 각 행(인덱스)별 합계 컬럼 추가하기</a> |- |
+| 6 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-Missing-Value%EA%B2%B0%EC%B8%A1%EC%B9%98-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0'>[KNIME] Workflow - Missing Value(결측치) 확인 및 처리하기</a> |- |
+| 7 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Node-Nuemeric-Binner-%EC%97%B0%EC%86%8D%ED%98%95-%EB%B3%80%EC%88%98%EB%A5%BC-%EB%B2%94%EC%A3%BC%ED%99%94-%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-%EA%B5%AC%EA%B0%84%ED%99%94-Binning'>[KNIME] Node - "Nuemeric Binner" 연속형 변수를 범주화 하고 싶을 때 (구간화 Binning)</a> |- |
+| 8 | KNIME | <a href='https://lungfish.tistory.com/entry/KNIME-Workflow-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%97%90-%ED%8A%B9%EC%A0%95-%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-2%ED%8E%B8-Constant-Value-Column-%EB%85%B8%EB%93%9C'>[KNIME] Workflow - 데이터셋에 특정 문자열로 컬럼을 추가하고 싶을 때 - 2편 (Constant Value Column 노드)</a> |- |
+
 <br>
 
 
