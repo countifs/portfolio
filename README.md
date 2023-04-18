@@ -45,9 +45,4 @@
 
 <br>
 
-개인실습
-- 유튜브 재생목록 크롤링
-- 워크넷 채용공고 크롤링 및 구인안내문자 생성 프로그램 개발
-- AutoML (pycaret, auto-sklearn)
-- Tabnet 
-- GAN oversampling
+
