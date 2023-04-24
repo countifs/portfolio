@@ -38,7 +38,7 @@
 | :--: | ----------------------------------------------------------- | ------------------------------------------------------------ |
 |  1   | 직업상담사를 위한 워크넷 구인공고 안내용 문자 제작 프로그램 | <a href='https://github.com/countifs/portfolio/tree/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/8.%20%EC%A7%81%EC%97%85%EC%83%81%EB%8B%B4%EC%82%AC%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9B%8C%ED%81%AC%EB%84%B7%20%EA%B5%AC%EC%9D%B8%EA%B3%B5%EA%B3%A0%20%EC%95%88%EB%82%B4%EC%9A%A9%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EC%9E%91%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8'>바로가기</a> |
 |  2   | 에브리타임 수강후기 텍스트 마이닝 및 워드클라우드           | <a href='https://github.com/countifs/portfolio/tree/main/3.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94/9.%20%EC%97%90%EB%B8%8C%EB%A6%AC%ED%83%80%EC%9E%84%20%EC%88%98%EA%B0%95%ED%9B%84%EA%B8%B0%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EB%B0%8F%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C'>바로가기</a> |
-|  3   | 유튜브 재생목록 크롤링                               | <a href='https://github.com/countifs/portfolio/tree/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/9.%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%9E%AC%EC%83%9D%EB%AA%A9%EB%A1%9D%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%81%AC%EB%A1%A4%EB%A7%81'>portfolio/1. 데이터사이언스 공통/9. 유튜브 재생목록 리스트 크롤링 at main · countifs/portfolio</a> |
+|  3   | 유튜브 재생목록 크롤링                               | <a href='https://github.com/countifs/portfolio/tree/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/9.%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%9E%AC%EC%83%9D%EB%AA%A9%EB%A1%9D%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%81%AC%EB%A1%A4%EB%A7%81'>바로가기</a> |
 
 <br>
 
