@@ -53,7 +53,7 @@
 | 17 | VScode | <a href='https://lungfish.tistory.com/entry/VSCode-%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%A9%94%EB%89%B4%EB%A1%9C-%EC%84%A4%EC%A0%95-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0'>[VScode] 한국어 메뉴로 설정 언어 변경하기</a> |- |
 | 18 | ML/DL | <a href='https://lungfish.tistory.com/entry/KMeans-ninit-%EA%B4%80%EB%A0%A8-%EA%B2%BD%EA%B3%A0-%EB%A9%94%EC%8B%9C%EC%A7%80'>[KMeans] 'n_init' 관련 경고 메시지</a> |- |
 
-
+<br>
 <br>
 
 ## 📌 [개인프로젝트] 직업상담사를 위한 워크넷 구인공고 안내용 문자 제작 프로그램 
