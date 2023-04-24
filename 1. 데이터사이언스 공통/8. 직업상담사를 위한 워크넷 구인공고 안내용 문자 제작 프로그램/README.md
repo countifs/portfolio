@@ -346,7 +346,4 @@ root.mainloop()
 
 
 
-```
-exe파일 생성
-```
 
