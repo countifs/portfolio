@@ -15,14 +15,14 @@
 
 ### 📌 사이드 프로젝트
 
-| No.  |        구분        | 프로젝트명                                                   |                             비고                             |
-| :--: | :----------------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
-|  1   | Web Crawling + GUI | 직업상담사를 위한 워크넷 구인공고 안내용 문자 제작 프로그램  | [바로가기](https://github.com/countifs/portfolio/tree/main/1. 데이터사이언스 공통/8. 직업상담사를 위한 워크넷 구인공고 안내용 문자 제작 프로그램) |
-|  2   |    Web Crawling    | 유튜브 재생목록 크롤링                                       | [바로가기](https://github.com/countifs/portfolio/tree/main/1. 데이터사이언스 공통/9. 유튜브 재생목록 리스트 크롤링) |
-|  3   |   Deep Learning    | TabNet: Attentive Interpretable Tabular Learning 실습 및 정리 |                              -                               |
-|  4   |       AutoML       | Pycaret 실습 및 정리                                         |                              -                               |
-|  5   |       AutoML       | H2O AutoML 실습 및 정리                                      |                              -                               |
-|  6   |       AutoML       | Auto-sklearn 실습 및 정리                                    |                              -                               |
+| No.  |        구분        | 프로젝트명                                                   | 비고 |
+| :--: | :----------------: | ------------------------------------------------------------ | :--: |
+|  1   | Web Crawling + GUI | 직업상담사를 위한 워크넷 구인공고 안내용 문자 제작 프로그램  |  -   |
+|  2   |    Web Crawling    | 유튜브 재생목록 크롤링                                       |  -   |
+|  3   |   Deep Learning    | TabNet: Attentive Interpretable Tabular Learning 실습 및 정리 |  -   |
+|  4   |       AutoML       | Pycaret 실습 및 정리                                         |  -   |
+|  5   |       AutoML       | H2O AutoML 실습 및 정리                                      |  -   |
+|  6   |       AutoML       | Auto-sklearn 실습 및 정리                                    |  -   |
 
 
 
