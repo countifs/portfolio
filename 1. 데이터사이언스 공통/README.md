@@ -13,23 +13,6 @@
 
 
 
-### 📌 사이드 프로젝트
-
-| No.  |        구분        | 프로젝트명                                                   | 비고 |
-| :--: | :----------------: | ------------------------------------------------------------ | :--: |
-|  1   | Web Crawling + GUI | 직업상담사를 위한 워크넷 구인공고 안내용 문자 제작 프로그램  |  <a href='https://github.com/countifs/portfolio/tree/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/8.%20%EC%A7%81%EC%97%85%EC%83%81%EB%8B%B4%EC%82%AC%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9B%8C%ED%81%AC%EB%84%B7%20%EA%B5%AC%EC%9D%B8%EA%B3%B5%EA%B3%A0%20%EC%95%88%EB%82%B4%EC%9A%A9%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EC%9E%91%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8'>바로가기</a>   |
-|  2   |    Web Crawling    | 유튜브 재생목록 크롤링                                       |  <a href='https://github.com/countifs/portfolio/tree/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/9.%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%9E%AC%EC%83%9D%EB%AA%A9%EB%A1%9D%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%81%AC%EB%A1%A4%EB%A7%81'>바로가기</a>   |
-|  3   |   Deep Learning    | TabNet: Attentive Interpretable Tabular Learning 실습 및 정리 |  -   |
-|  4   |       AutoML       | Pycaret 실습 및 정리                                         |  -   |
-|  5   |       AutoML       | H2O AutoML 실습 및 정리                                      |  -   |
-|  6   |       AutoML       | Auto-sklearn 실습 및 정리                                    |  -   |
-
-
-
-<br>
-
-
-
 ### 🔍 프로젝트/연구이력
 
 | No. | 구분 | 과정명 | 프로젝트 |
@@ -42,6 +25,21 @@
 | 5 | 정규과정 | 2021-2 빅데이터저장및관리 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/5.%202021-2%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC/%5B%EA%B3%B5%EC%9A%A9%ED%83%9D%2C%20%EA%B9%80%EC%9E%AC%ED%98%B8%5D%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC%20-%20%EC%B5%9C%EC%A2%85%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf'>인터넷버즈, 방송프로그램별 시청시간 및 시청률 데이터 분석</a>|
 | 6 | 학술대회 | 2022-1 대한산업공학회 춘계학술대회 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/6.%202022-1%20%EB%8C%80%ED%95%9C%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99%ED%9A%8C%20%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C/%EA%B0%84%EA%B2%B0%ED%99%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B7%9C%EC%B9%99%20%EA%B4%80%EA%B3%84%20%EB%B6%84%EC%84%9D%20-%20%EA%B9%80%EC%9E%AC%ED%98%B8.pdf'>간결화 알고리즘과 규칙 관계 분석</a> |
 | 7 | 학술대회 | 2022-2 대한산업공학회 추계학술대회 | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/7.%202022-2%20%EB%8C%80%ED%95%9C%EC%82%B0%EC%97%85%EA%B3%B5%ED%95%99%ED%9A%8C%20%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C/2022%20%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20-%20%EA%B9%80%EC%9E%AC%ED%98%B8.pdf'>기대격차 모형에 의한 프랜차이즈 패스트푸드에 대한 품질 만족도 분석</a> |
+
+
+
+<br>
+
+### 📌 사이드 프로젝트
+
+| No.  |        구분        | 프로젝트명                                                   |                             비고                             |
+| :--: | :----------------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|  1   | Web Crawling + GUI | 직업상담사를 위한 워크넷 구인공고 안내용 문자 제작 프로그램  | <a href='https://github.com/countifs/portfolio/tree/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/8.%20%EC%A7%81%EC%97%85%EC%83%81%EB%8B%B4%EC%82%AC%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9B%8C%ED%81%AC%EB%84%B7%20%EA%B5%AC%EC%9D%B8%EA%B3%B5%EA%B3%A0%20%EC%95%88%EB%82%B4%EC%9A%A9%20%EB%AC%B8%EC%9E%90%20%EC%A0%9C%EC%9E%91%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8'>바로가기</a> |
+|  2   |    Web Crawling    | 유튜브 재생목록 크롤링                                       | <a href='https://github.com/countifs/portfolio/tree/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/9.%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%9E%AC%EC%83%9D%EB%AA%A9%EB%A1%9D%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%81%AC%EB%A1%A4%EB%A7%81'>바로가기</a> |
+|  3   |   Deep Learning    | TabNet: Attentive Interpretable Tabular Learning 실습 및 정리 |                              -                               |
+|  4   |       AutoML       | Pycaret 실습 및 정리                                         |                              -                               |
+|  5   |       AutoML       | H2O AutoML 실습 및 정리                                      |                              -                               |
+|  6   |       AutoML       | Auto-sklearn 실습 및 정리                                    |                              -                               |
 
 
 
