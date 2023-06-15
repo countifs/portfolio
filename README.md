@@ -77,6 +77,7 @@
 <br>
 
 ### 🖇️ 기타 (참고자료)
+- <a href='https://data.seoultech.ac.kr/'>서울과학기술대학교 일반대학원 데이터사이언스학과</a>
 - <a href='https://bk21ds.seoultech.ac.kr/index.do'>서울과학기술대학교 BK21 데이터사이언스와 비즈니스 포텐셜 교육연구단</a>
 - <a href='https://grave-scooter-082.notion.site/c9cc9e8b699b449597a59a6e45d7aef8?v=f54abc07386049fcb538f167e62852dc'>서울과학기술대학교 BK21 데이터사이언스와 비즈니스 포텐셜 교육연구단 - DS 포트폴리오</a>
 - <a href='https://grave-scooter-082.notion.site/0e0d0aa723ed4d6cbf5010bbdaf16626?v=061198927c22462581443a112efd6ce7'>서울과학기술대학교 BK21 데이터사이언스와 비즈니스 포텐셜 교육연구단 - DS 인터페이스</a>
