@@ -72,7 +72,7 @@
 
 <br>
 
-### 기타 (참고자료)
+### 🖇️ 기타 (참고자료)
 - <a href='https://grave-scooter-082.notion.site/c9cc9e8b699b449597a59a6e45d7aef8?v=f54abc07386049fcb538f167e62852dc'>DS 포트폴리오</a>
 - [DS 인터페이스](https://www.notion.so/0e0d0aa723ed4d6cbf5010bbdaf16626?pvs=21)
 - <a href='https://grave-scooter-082.notion.site/84c4b1eabc584dd6b3ef62177088b422?v=0f54986e68cc4943bd7adbc5a79684eb'>DS 콜로키움</a>
