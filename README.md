@@ -8,7 +8,8 @@
 - 연락처 : doe2x2@seoutlech.ac.kr <br>
 - 블로그 : <a href='https://lungfish.tistory.com/'> 물 만날 물고기 (T-Story) </a>
 - 소속 : 서울과학기술대학교 일반대학원 데이터사이언스학과 Explainable Data Mining Lab <br>
-- 학위논문 : 불균형 데이터의 오버샘플링 최적 조합 탐색과 규칙 유도 알고리즘의 해석력 비교 <(Optimal Combination Search for Oversampling of Imbalanced Data and Comparison of Interpretability in Rule Induction Algorithms)
+- 학위논문 : 불균형 데이터의 오버샘플링 최적 조합 탐색과 규칙 유도 알고리즘의 해석력 비교 <br>
+(Optimal Combination Search for Oversampling of Imbalanced Data and Comparison of Interpretability in Rule Induction Algorithms)
 
 <br>
 
