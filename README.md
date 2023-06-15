@@ -45,7 +45,7 @@
 
 | No.  |   구분   | 과정명                             | 프로젝트                                                     |
 | :--: | :------: | ---------------------------------- | ------------------------------------------------------------ |
-|  0   | 학위논문 | 2021.09 ~ 2023.08 공학석사      | 불균형 데이터의 오버샘플링 최적 조합 탐색과 규칙 유도 알고리즘의 해석력 비교 </a> |
+|  0   | 학위논문 | 데이터사이언스 공학석사      | 불균형 데이터의 오버샘플링 최적 조합 탐색과 규칙 유도 알고리즘의 해석력 비교 </a> |
 |  1   | 산학협력 | 2022-2 전자제조 산학프로젝트       | <a href='https://drive.google.com/drive/folders/16lO8i1p6F5wzyI3iiVYBizSwwf3HI0St?usp=sharing'> (주)제이오텍 - 센서 데이터 기반의 냉장고 기능 이상탐지 고도화 </a> |
 |  2   | 정규과정 | 2022-1 데이터마이닝                | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/1.%202022-1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EB%B0%9C%ED%91%9C%20-%20%EA%B9%80%EC%9E%AC%ED%98%B8%20(22.05.10).pdf'> Cirrhosis Prediction </a> |
 |  3   | 정규과정 | 2022-1 데이터베이스시스템          | <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/2.%202022-1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%8B%9C%EC%8A%A4%ED%85%9C/%5B%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20Automated%20energy%20consumption%20forecasting%20with%20EnForce%20-%20%EA%B9%80%EB%B4%89%EC%84%9D%2C%20%EA%B9%80%EC%9E%AC%ED%98%B8%2C%20%EC%9D%B4%EB%8B%A4%EC%9D%B8.pdf'>Automated energy consumption forecasting with EnForce</a> |
