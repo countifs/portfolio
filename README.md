@@ -9,8 +9,8 @@
 - 블로그 : <a href='https://lungfish.tistory.com/'> 물 만날 물고기 (T-Story) </a>
 - 소속 : 서울과학기술대학교 일반대학원 데이터사이언스학과 Explainable Data Mining Lab <br>
 - 지도교수 : <a href='https://data.seoultech.ac.kr/professor/prof/?togo=list&menu=72974&profidx=02128'>홍정식</a>
-- 학위논문 : <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8%20-%20%EB%B6%88%EA%B7%A0%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%98%A4%EB%B2%84%EC%83%98%ED%94%8C%EB%A7%81%20%EC%B5%9C%EC%A0%81%20%EC%A1%B0%ED%95%A9%20%ED%83%90%EC%83%89%EA%B3%BC%20%EA%B7%9C%EC%B9%99%20%EC%9C%A0%EB%8F%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%ED%95%B4%EC%84%9D%EB%A0%A5%20%EB%B9%84%EA%B5%90/%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8%20-%20%EB%B0%9C%ED%91%9C%20(%EA%B9%80%EC%9E%AC%ED%98%B8).pdf'>불균형 데이터의 오버샘플링 최적 조합 탐색과 규칙 유도 알고리즘의 해석력 비교</a> <br>
-(Optimal Combination Search for Oversampling of Imbalanced Data and Comparison of Interpretability in Rule Induction Algorithms)
+- 학위논문 : <a href='https://github.com/countifs/portfolio/blob/main/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EA%B3%B5%ED%86%B5/%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8%20-%20%EB%B6%88%EA%B7%A0%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%98%A4%EB%B2%84%EC%83%98%ED%94%8C%EB%A7%81%20%EC%B5%9C%EC%A0%81%20%EC%A1%B0%ED%95%A9%20%ED%83%90%EC%83%89%EA%B3%BC%20%EA%B7%9C%EC%B9%99%20%EC%9C%A0%EB%8F%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%ED%95%B4%EC%84%9D%EB%A0%A5%20%EB%B9%84%EA%B5%90/%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8%20-%20%EB%B0%9C%ED%91%9C%20(%EA%B9%80%EC%9E%AC%ED%98%B8).pdf'>불균형 데이터의 오버샘플링 최적 조합 탐색과 규칙 유도 알고리즘의 해석력 비교<br>(Optimal Combination Search for Oversampling of Imbalanced Data and Comparison of Interpretability in Rule Induction Algorithms)</a> <br>
+
 
 
 
